@@ -1,10 +1,26 @@
-- 👋 Hey, my name is HarshVardhan Singh , A computer science student.
-- 👀 I’m interested for learn more about core skills
-- 🌱 I’m currently learning web dev and c++ and working on mini-projects
-- 💞️ I’m looking for internships job training
-- 📫 How to reach me -  you can contact with me through my e-mail add: anantnarayansingh99@gmail.com
+🎓 B.Tech CSE Student | 💻 Java & Back-End Developer | 🧠 DSA & Systems Learner 
 
-<!---
-Rajput-Harshvardhansingh-001/Rajput-Harshvardhansingh-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! I'm Harsh Vardhan Singh — a passionate Computer Science student with a strong focus on Java development, back-end engineering, and system-level programming.
+
+🔧 Tech I'm working with:
+- Java (Core, OOPs, Multithreading, JDBC, JSP, Servlets, Hibernate)
+- C (Advanced), C++, HTML/CSS, JavaScript (Basic)
+- MVC Architecture, AJAX, jQuery
+- MySQL, JDBC Template (Spring JDBC)
+- Git, GitHub, Eclipse, Apache Tomcat
+
+🚀 Currently Exploring:
+- Design and Analysis of Algorithms (DAA)
+- Web Development (Full-stack Journey)
+- System Programming & Compiler Design
+- Preparing for GATE CSE + Internships in Java Dev
+
+🛠️ Projects:
+- Java-based MVC CRUD Applications
+- QR Code Scanner with Webcam integration
+- JSP-driven Shopping Website (Backend Focused)
+
+📚 Learning Never Stops:
+Focused on writing clean, scalable code and solving real-world problems — with an eye on landing in Germany’s tech scene soon.
+
+📬 Let's connect and build something meaningful together!
