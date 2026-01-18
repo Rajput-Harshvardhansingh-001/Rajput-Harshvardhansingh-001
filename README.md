@@ -1,26 +1,19 @@
-🎓 B.Tech CSE Student | 💻 Java & Back-End Developer | 🧠 DSA & Systems Learner 
+I’m Harsh Vardhan Singh, a backend-driven Java engineer with real project experience across Spring Boot, JDBC, JSP/Servlets, and modern full-stack tools. I build working systems, not just demos.
 
-Hey there! I'm Harsh Vardhan Singh — a passionate Computer Science student with a strong focus on Java development, back-end engineering, and system-level programming.
+⚙️ Core Weapons
+Java (OOP, Multithreading), Spring Boot, REST APIs, JDBC, JSP, Servlets, Sessions, Filters, MySQL
 
-🔧 Tech I'm working with:
-- Java (Core, OOPs, Multithreading, JDBC, JSP, Servlets, Hibernate)
-- C (Advanced), C++, HTML/CSS, JavaScript (Basic)
-- MVC Architecture, AJAX, jQuery
-- MySQL, JDBC Template (Spring JDBC)
-- Git, GitHub, Eclipse, Apache Tomcat
+🎨 Full-Stack Firepower
+JavaScript, React, Thymeleaf, Bootstrap, Tailwind CSS, HTML, CSS
 
-🚀 Currently Exploring:
-- Design and Analysis of Algorithms (DAA)
-- Web Development (Full-stack Journey)
-- System Programming & Compiler Design
-- Preparing for GATE CSE + Internships in Java Dev
+🧠 CS Backbone
+DSA, DBMS, OS, Computer Networks, system-level thinking
 
-🛠️ Projects:
-- Java-based MVC CRUD Applications
-- QR Code Scanner with Webcam integration
-- JSP-driven Shopping Website (Backend Focused)
+🛠 What I Actually Build
+E-commerce & banking backends, secure session-based apps, REST-driven services, Java backend + React UI integrations
 
-📚 Learning Never Stops:
-Focused on writing clean, scalable code and solving real-world problems — with an eye on landing in Germany’s tech scene soon.
+🎯 Why Me
+Backend-first, fast learner, role-flexible — ready for Java backend, Spring Boot, or full-stack roles from day one.
 
-📬 Let's connect and build something meaningful together!
+🌍 Target
+High-impact engineering teams (India & Germany) building scalable systems.
