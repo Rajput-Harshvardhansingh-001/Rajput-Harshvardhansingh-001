@@ -1,4 +1,4 @@
-I’m Harsh Vardhan Singh, a backend-driven Java engineer with real project experience across Spring Boot, JDBC, JSP/Servlets, and modern full-stack tools. I build working systems, not just demos.
+I’m Harsh Vardhan Singh, a backend-driven Java engineer with real project experience across Spring Boot, JPA, Spring Security, JUnit, JSP/Servlets, and modern full-stack tools. I build working systems, not just demos.
 
 ⚙️ Core Weapons
 Java (OOP, Multithreading), Spring Boot, REST APIs, JDBC, JSP, Servlets, Sessions, Filters, MySQL
